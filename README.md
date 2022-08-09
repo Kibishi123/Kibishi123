@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asterique Morningstar
 - 👀 I’m interested in Information Security, Web Development, App Development, Data Analytics, Machine Intelligence 
-- 🌱 I’m currently learning on all ofthe above.
+- 🌱 I’m currently learning on all of the above.
 - 💞️ I’m looking to collaborate on the same.
 - 📫 How to reach me Kib32knowme@Protonmail.com
 <!---
